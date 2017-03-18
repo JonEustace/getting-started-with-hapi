@@ -1,0 +1,19 @@
+{
+  "name": "hapi-first-project",
+  "version": "1.0.0",
+  "description": "Getting started with Hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonEustace/getting-started-with-hapi.git"
+  },
+  "author": "Jonathan Eustace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonEustace/getting-started-with-hapi/issues"
+  },
+  "homepage": "https://github.com/JonEustace/getting-started-with-hapi#readme"
+}
